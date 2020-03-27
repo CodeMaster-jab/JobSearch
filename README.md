@@ -24,6 +24,6 @@ Option to contact the job poster directly from application
 
 ## LINKS
 
-[Repository](https://github.com/aseawright1/Interactive_Job_Search)
+[Repository](https://github.com/codemaster-jab/JobSearch)
 
-[Application](https://aseawright1.github.io/Interactive_Job_Search/)
+[Application](https://codemaster-jab.github.io/JobSearch/)
